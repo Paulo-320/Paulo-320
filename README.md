@@ -6,15 +6,15 @@ Iniciando na área de programação | Aprendendo lógica, HTML, CSS e JavaScript
 
 ### Detalhes 
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Paulo-320_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](http://sgithub-readme-stats.vercel.app/api/pin/?username=Paulo-320_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Paulo-320&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas 
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Paulo-320&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Contatos 
 
