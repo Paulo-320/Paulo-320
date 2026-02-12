@@ -1,23 +1,41 @@
-### Olá
+## Olá
+
+
 
 ### Sobre o Paulo 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) 📚
+
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) 📚  
+
 Iniciando na área de programação | Aprendendo lógica, HTML, CSS e JavaScript
+
+
 
 ### Detalhes 
 
-[![Anurag's GitHub stats](http://sgithub-readme-stats.vercel.app/api/pin/?username=Paulo-320_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+[![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Paulo-320&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+[![Cartão Leiame](https://github-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)](https://github.com/Paulo-320/variavel)
+
+
 
 ### Linguagens utilizadas 
 
-[![Top Langs](httpsgithub-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Contatos 
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/paulo-henrique-oliveira-de-carvalho-314a27357/)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-oliveira-de-carvalho-314a27357/)
