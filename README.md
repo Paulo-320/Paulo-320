@@ -14,15 +14,14 @@ Iniciando na área de programação | Aprendendo lógica, HTML, CSS e JavaScript
 
 
 
-[![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Paulo-320&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Paulo-320&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ### Projetos
 
 
-
-[![Cartão Leiame](https://github-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)](https://github.com/Paulo-320/variavel)
+(https://github-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)](https://github.com/Paulo-320/variavel)
 
 
 
@@ -30,7 +29,7 @@ Iniciando na área de programação | Aprendendo lógica, HTML, CSS e JavaScript
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
