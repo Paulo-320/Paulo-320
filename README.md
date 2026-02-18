@@ -1,36 +1,29 @@
-## Olá
+## 👋 Olá
 
-
-
-### Sobre o Paulo 
+### 👨‍💻 Sobre o Paulo
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) 📚  
+Iniciando na área de programação | Aprendendo lógica, HTML, CSS e JavaScript  
 
-Iniciando na área de programação | Aprendendo lógica, HTML, CSS e JavaScript
+---
 
+### 📊 Estatísticas
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-320&show_icons=true&theme=dark)
 
-### Detalhes 
+---
 
+### 🚀 Projetos
 
+![Projeto Variável](https://github-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)
 
-(https://github-readme-stats.vercel.app/api?username=Paulo-320&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🛠 Linguagens Utilizadas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact&theme=dark)
 
-### Projetos
-
-
-(https://github-readme-stats.vercel.app/api/pin/?username=Paulo-320&repo=variavel&theme=dark)](https://github.com/Paulo-320/variavel)
-
-
-
-### Linguagens utilizadas 
-
-
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-320&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 
 
 ### Contatos 
